@@ -1,0 +1,58 @@
+      form * {
+            width: 80%;
+            margin-top: 15px;
+            padding: 10px;
+            border-top: 0;
+            border-left: 0;
+            border-right: 0;
+            border-bottom: 1px solid;
+            font-size: large;
+            
+        }
+
+        input:hover{
+            background-color: aquamarine;
+        }
+        form{
+            margin: 5px;
+            font-size:large ;
+            position: absolute;
+        }
+
+        ul{
+            list-style-type: none;
+            
+            
+        }
+        a{
+            text-decoration: none;
+            font-size: large;
+        }
+        li{
+            margin-right: 15px;
+            padding-left: 10px;
+        
+            background-color: lightgrey;
+            display: inline;
+        }
+        li:hover{
+            background-color: black;
+            
+        }
+        a:hover{
+            color: floralwhite;
+        }
+        
+        .navbar{
+            float: right;
+        }
+       img{
+           display: inline-block;
+           opacity: 0.5;
+       }
+       img:hover{
+           opacity: 1.0;
+       }
+       .imgs{
+           padding-top: 100px;
+       }
